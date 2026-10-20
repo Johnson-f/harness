@@ -1,0 +1,27 @@
+# SwiftPM
+.build/
+.swiftpm/
+/Packages/
+
+# Xcode
+DerivedData/
+build/
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+*.xcresult/
+*.dSYM/
+*.dSYM.zip
+
+# Compiled outputs
+*.o
+*.a
+*.dylib
+*.app/
+*.ipa
+
+# macOS
+.DS_Store
+
+# Local config
+.env
